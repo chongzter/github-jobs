@@ -9,8 +9,8 @@ const ACTIONS = {
 };
 
 const BASE_URL =
-  // "https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json";
-  "/positions.json";
+  "https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json?markdown=true";
+// "/positions.json";
 
 // Documentation at https://allorigins.win/
 // "https://api.allorigins.win/raw?url=https://jobs.github.com/positions.json?markdown=true";
